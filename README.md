@@ -41,6 +41,18 @@ JVM(Java Virtual Machine)을 통해 한 번 작성하면 어디서든 실행 가
 </details>
 
 <details>
+<summary>JAVA의 동작순서(garbage collection)</summary>
+<br>
+
+1. 자바 컴파일러(javac)가 자바 소스코드(.java)를 읽어 자바 바이트코드(.class)로 변환시킵니다.
+2. Class Loader를 통해 class 파일들을 JVM으로 로딩합니다.
+3. 로딩된 class 파일들을 Execution engine을 통해 해석됩니다.
+4. 해석된 바이트코드는 Runtime Data Areas에 배치되어 실질적인 수행이 이루어집니다.
+<br>
+<br>
+</details>
+
+<details>
 <summary>GC(garbage collection)</summary>
 <br>
 GC는 힙 영역에서 사용하지 않는 객체들을 제거하는 작업을 총칭합니다.
@@ -75,6 +87,7 @@ GC는 힙 영역에서 사용하지 않는 객체들을 제거하는 작업을 �
 <br>
 <br>
 </details>
+
 <details>
 <summary>인테페이스(interface) vs 추상클래스(abstract class)</summary>
 <br>
@@ -84,6 +97,7 @@ GC는 힙 영역에서 사용하지 않는 객체들을 제거하는 작업을 �
 <br>
 <br>
 </details>
+
 <details>
 <summary>객체(instance) vs 클래스(class)</summary>
 <br>
@@ -92,6 +106,7 @@ GC는 힙 영역에서 사용하지 않는 객체들을 제거하는 작업을 �
 <br>
 <br>
 </details>
+
 <details>
 <summary>정적(static)</summary>
 <br>
@@ -100,6 +115,7 @@ static이 붙은 멤버는 객체마다 별도로 존재하는 것이 아니라,
 <br>
 <br>
 </details>
+
 <details>
 <summary>기본형(primitive type) vs 참조형(reference type)</summary>
 <br>
@@ -111,6 +127,7 @@ static이 붙은 멤버는 객체마다 별도로 존재하는 것이 아니라,
 <br>
 <br>
 </details>
+
 <details>
 <summary>접근 제어자(access modifier)</summary>
 <br>
@@ -127,7 +144,14 @@ protected: 같은 패키지와 상속받은 자식 클래스에서 접근 가능
 <br>
 </details>
 
-
+<details>
+<summary>컬렉션 프레임워크(collection framework)</summary>
+<br>
+Java Collection은 널리 알려져 있는 자료구조를 바탕으로 객체, 데이터들을 효율적으로 관리할 수 있는 자료구조들이 있는 라이브러리를 컬렉션 프레임워크라고 합니다.
+List, Set은 Collection 인터페이스를 상속받지만, Map 인터페이스는 구조상의 차이라 별도로 정의힙니다.
+<br>
+<br>
+</details>
 
 ###### 데이터베이스
 <details>
