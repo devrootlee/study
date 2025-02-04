@@ -42,7 +42,7 @@ JVM(Java Virtual Machine)을 통해 한 번 작성하면 어디서든 실행 가
 </details>
 
 <details>
-<summary>JAVA의 동작순서(garbage collection)</summary>
+<summary>JAVA의 동작순서</summary>
 <br>
 
 1. 자바 컴파일러(javac)가 자바 소스코드(.java)를 읽어 자바 바이트코드(.class)로 변환시킵니다.
