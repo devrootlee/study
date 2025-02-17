@@ -40,5 +40,8 @@
     # VirtualMachinePlatform 기능을 활성화시키는 명령어 : WSL2 버전에 필요한 명령어
     dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
     ```
- 
+   - microsoft Store에서 ubuntu 설치 후 실행
+   - 다시 Windows PowerShell에서 wls 입력
+3. Docker Desktop for windows 설치
+   - https://docs.docker.com/desktop/setup/install/windows-install/
 </details>
