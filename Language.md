@@ -1,8 +1,4 @@
-# interview practice
-
-## CS(컴퓨터 과학)
-##### Languge(언어)
-###### JAVA 
+###### JAVA
 <details>
 <summary>JAVA</summary>
 <br>
@@ -49,8 +45,8 @@ JVM(Java Virtual Machine)을 통해 한 번 작성하면 어디서든 실행 가
 2. Class Loader를 통해 class 파일들을 JVM으로 로딩합니다.
 3. 로딩된 class 파일들을 Execution engine을 통해 해석됩니다.
 4. 해석된 바이트코드는 Runtime Data Areas에 배치되어 실질적인 수행이 이루어집니다.
-<br>
-<br>
+   <br>
+   <br>
 </details>
 
 <details>
@@ -124,7 +120,7 @@ static이 붙은 멤버는 객체마다 별도로 존재하는 것이 아니라,
 
 기본형: byte(1), short(2), int(4), long(8), float(4), double(8), char(2), boolean(1)
 
-참조형: class, interface, array, enum, String, Wrapper class(Character, Integer, Double ~), Collection framework(List, Map, Set ~) 
+참조형: class, interface, array, enum, String, Wrapper class(Character, Integer, Double ~), Collection framework(List, Map, Set ~)
 <br>
 <br>
 </details>
@@ -153,38 +149,3 @@ List, Set은 Collection 인터페이스를 상속받지만, Map 인터페이스�
 <br>
 <br>
 </details>
-
-###### 데이터베이스
-<details>
-<summary>RDBMS vs NOSQL</summary>
-  접히는 내용입니다.  
-  여러 줄의 텍스트나 코드 블록도 넣을 수 있습니다.
-</details>
-
-##### Framework(프레임워크)
-<details>
-<summary>SpringBoot(스프링부트)</summary>
-  접히는 내용입니다.  
-  여러 줄의 텍스트나 코드 블록도 넣을 수 있습니다.
-</details>
-
-<details>
-<summary>Network(네트워크)</summary>
-  접히는 내용입니다.  
-  여러 줄의 텍스트나 코드 블록도 넣을 수 있습니다.
-</details>
-
-<details>
-<summary>Operation(운영체제)</summary>
-  접히는 내용입니다.  
-  여러 줄의 텍스트나 코드 블록도 넣을 수 있습니다.
-</details>
-
-<details>
-<summary>Data Structure(자료구조)</summary>
-  접히는 내용입니다.  
-  여러 줄의 텍스트나 코드 블록도 넣을 수 있습니다.
-</details>
-
-
-## ETC(기타)
