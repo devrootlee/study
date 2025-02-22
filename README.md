@@ -1,9 +1,9 @@
-[Language.md](Language.md)
+[Language(언어)](Language.md)
 
-[Framework.md](Framework.md)
+[Framework(프레임워크)](Framework.md)
 
-[Database.md](Database.md)
+[Database(데이터베이스)](Database.md)
 
-[Containerization_Platform.md](Containerization_Platform.md)
+[Containerization_Platform(컨테이너 플랫폼)](Containerization_Platform.md)
 
-[Communication_protocol.md](Communication_protocol.md)
+[Communication_protocol(통신 프로토콜)](Communication_protocol.md)
