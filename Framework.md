@@ -2,6 +2,12 @@
 
 <details>
 <summary>SpringBoot(스프링부트)</summary>
-  접히는 내용입니다.  
-  여러 줄의 텍스트나 코드 블록도 넣을 수 있습니다.
+
+- build 하기
+
+mac
+````
+빌드 명령어 : ./gradlew clean build
+jar 파일 경로 : 프로젝트 폴더 -> build 폴더 -> libs 폴더
+````
 </details>
