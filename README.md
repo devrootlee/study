@@ -8,6 +8,6 @@
 
 [Communication_protocol(통신 프로토콜)](Communication_protocol.md)
 
-[cloud(클라우드)](Cloud)
+[Cloud(클라우드)](Cloud.md)
 
 [SCM(형상관리)](SCM.md)
